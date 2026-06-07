@@ -1,27 +1,30 @@
-# Hi there, I'm Tomy 👋
+# Hi there, I'm Tomy (蔡志忠) 👋
 
-我是一名經驗豐富的軟體開發者，專注於系統穩定性、效能測試與後端/行動端應用開發。
-溝通風格：直接說重點，不廢話。除了技術開發，我也對理財與投資策略有深入的研究。
+我是一名擁有超過 15 年經驗的資深軟體開發者，專注於金融證券系統開發、系統穩定性、效能測試與後端/行動端應用程式設計。
+溝通風格：直接說重點，不廢話。除了技術開發，我也對理財與金融財務管理有深入的研究與實務經驗。
 
 ## 🛠️ Tech Stack & Skills
-* **程式語言 & 框架**: C#, Kotlin, Visual C++, MFC, Delphi
+* **程式語言 & 框架**: C#, C++, Kotlin, Android (Native/Web App), JavaScript, Visual C++, MFC, Delphi
 * **資料庫**: MS SQL
 * **專注領域**: 
-  * 系統監控與自動化服務恢復
+  * 金融期權與證券系統開發 (報價系統、大戶下單系統、自營造市工具)
+  * 系統監控、自動化服務恢復與 Proxy 架構
   * 記憶體壓力測試與效能調校 (Memory Leak 診斷)
-  * Android WebView 探測與應用
-  * Client-Server 軟體架構與進銷存系統 (ERP) 開發
-  * 軟體新技術研究與工具導入
+  * Android 行動端產品開發 (Native App / Web App)
+  * Client-Server 軟體架構、Socket/API 串接與資料庫應用
 
 ## 💼 Experience Highlights
-* **軟體研發與新技術導入**
-  * 負責軟體開發新技術的研究與多種新工具的嘗試。
-  * 具備 Visual C++, MFC, C# 深厚的軟體程式設計經驗。
+* **副理 / 軟體工程師 | 國票綜合證券股份有限公司** 
+  * **期權證系統開發**: 開發國內證期行情報價系統，涵蓋接收處理、訂閱及發送之完整底層架構。
+  * **大戶下單系統 (C++/C#)**: 規劃並執行全新期貨大戶系統 (C++) 模組設計與上線；後續以 C# 進行新版系統設計，完整轉換並擴增證券與期貨全市場功能。
+  * **資料串接與核心運算**: 處理協力廠商資料 (委成回、行情)，透過 Socket 或 API 接收，完成客戶端轉發、資料庫處理與洗價等核心業務。
+  * **行動端產品 (Android)**: 規劃與開發 Android 業務處理 Web App 及行情報價與下單之 Native App。
+  * **自營造市系統維護**: 開發 Proxy 與各類監控程式，維持自營造市工具與整體運作的高可用性與品質。
+
 * **軟體工程師 | 有孚資訊** (2001/03 - 2006/01)
-  * **系統架構設計**: 負責 Client-Server 軟體架構及模組設計，並控管軟體設計進度。
-  * **專案開發**: 進行進銷存資料庫系統 (ERP) 專案軟體之分析、設計及程式撰寫。
-  * **資料庫管理**: 建置與維護 MS SQL 資料庫，包含複雜的 Stored Procedure 和 Trigger 開發。
-  * **客戶端部署**: 實地進駐終端客戶，協助系統實際上線、偵錯、跨系統資料轉檔與 UI/UX 流程改進。
+  * **進銷存系統 (ERP) 開發**: 負責 Client-Server 軟體架構與模組設計，並進行專案分析與程式撰寫。
+  * **資料庫與客戶端整合**: 建置 MS SQL 資料庫 (Stored Procedure / Trigger)，並進駐客戶端協助上線、偵錯與跨系統資料轉檔。
+  * **技術研究**: 負責軟體開發新技術的研究與多種新工具導入。
 
 ## 🚀 Public Projects
 * **[MemoryStressTest](https://github.com/oktomy/MemoryStressTest)** (C#)<br>
@@ -32,4 +35,4 @@
   Android 平台的 WebView 診斷與探測工具。
 
 ## 📫 Interests
-* **Talk to me about**: 程式開發 (Software Development), 架構設計 & 理財建議 (Financial Advice)
+* **Talk to me about**: 金融系統開發 (Financial Systems), 程式開發 (Software Development), 架構設計 & 理財建議 (Financial Advice)
